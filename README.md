@@ -9,11 +9,11 @@ CarHub is a modern, responsive web application designed for daily car rentals. T
 
 ## Technologies Used
 
-I) React: Frontend library for building user interfaces.
-II) Next.js 14: Framework for server-side rendering and static site generation, enhancing performance and SEO.
-III) TypeScript: Strongly typed JavaScript for robust and maintainable code.
-IV) Tailwind CSS: Utility-first CSS framework for creating a modern and responsive design.
-V) API Integration: (Add any API services you used, such as car rental APIs or payment gateways).
+1) React: Frontend library for building user interfaces.
+2) Next.js 14: Framework for server-side rendering and static site generation, enhancing performance and SEO.
+3) TypeScript: Strongly typed JavaScript for robust and maintainable code.
+4) Tailwind CSS: Utility-first CSS framework for creating a modern and responsive design.
+5) API Integration: (Add any API services you used, such as car rental APIs or payment gateways).
 
 ## Installation
 
