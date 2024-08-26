@@ -1,36 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CarHub - Daily Car Rental Platform
 
-## Getting Started
+CarHub is a modern, responsive web application designed for daily car rentals. This platform allows users to easily browse, compare, and book vehicles, offering a seamless and user-friendly experience.
 
-First, run the development server:
+## Features
 
-```bash
+1) Responsive Design: Optimized for all screen sizes, ensuring a great experience on both desktop and mobile devices.
+2) Car Browsing: Search and filter a variety of vehicles based on user preferences.
+
+## Technologies Used
+
+I) React: Frontend library for building user interfaces.
+II) Next.js 14: Framework for server-side rendering and static site generation, enhancing performance and SEO.
+III) TypeScript: Strongly typed JavaScript for robust and maintainable code.
+IV) Tailwind CSS: Utility-first CSS framework for creating a modern and responsive design.
+V) API Integration: (Add any API services you used, such as car rental APIs or payment gateways).
+
+## Installation
+
+To get a local copy up and running, follow these simple steps:
+1) Clone the repository:
+git clone https://github.com/yourusername/carhub.git
+cd carhub
+
+## Install dependencies:
+
+npm install
+
+## Run the development server:
+
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Contributing
+Contributions are welcome! Please follow these steps to contribute:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+1) Fork the repository.
+2) Create a new feature branch (git checkout -b feature/your-feature).
+3) Commit your changes (git commit -m 'Add new feature').
+4) Push to the branch (git push origin feature/your-feature).
+5) Open a Pull Request.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Contact
+If you have any questions or suggestions, feel free to reach out:
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Email: oleg.min.vin@gmail.com
+LinkedIn: https://www.linkedin.com/in/oleh-semenets/
+GitHub: https://github.com/osemenets21
