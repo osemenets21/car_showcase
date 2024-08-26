@@ -18,9 +18,8 @@ V) API Integration: (Add any API services you used, such as car rental APIs or p
 ## Installation
 
 To get a local copy up and running, follow these simple steps:
-1) Clone the repository:
-git clone https://github.com/yourusername/carhub.git
-cd carhub
+1) Clone the repository: https://github.com/osemenets21/car_showcase.git
+cd car_showcase
 
 ## Install dependencies:
 
